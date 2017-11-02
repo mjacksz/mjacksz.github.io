@@ -12,14 +12,14 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Bloc SDT studen</h1>
+     <h1>Bloc SDT student</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: l3tmein.6@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble: 
@@ -40,7 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics:"UA-109179284-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
